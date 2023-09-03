@@ -1,6 +1,4 @@
 # messager
 aplicativo de mensagens instantaneas
 ![server](https://github.com/cabral-boop/messager/assets/117474374/be144ebb-e658-465e-9008-251d6d3cba4f)
-![clientname](https://github.com/cabral-boop/messager/assets/117474374/69d8fcd8-6afd-48ef-8632-68432bfc94f0)
-![client](https://github.com/cabral-boop/messager/assets/117474374/746a8f7b-89dd-41b3-a9fb-5004179d803c)
-
+![Screenshot from 2023-09-02 21-00-28](https://github.com/cabral-boop/messager/assets/117474374/dc7edd81-b6d5-4ece-818b-fdbfd2f67a7b)
